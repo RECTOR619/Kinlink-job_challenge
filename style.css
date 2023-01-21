@@ -30,7 +30,7 @@
 /* expectation */
 
 .expectations {
-    color: rgb(9, 61, 9);
+    color: rgb(62, 146, 62);
 }
 
 
@@ -218,7 +218,7 @@
 
 .write {
     width: 50%;
-    color: green;
+    color: rgb(211, 222, 211);
     border: 1px solid aquamarine;
 }
 
